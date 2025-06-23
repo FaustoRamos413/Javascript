@@ -37,9 +37,9 @@
 		var defaults = {
 			wrapper: '#luxy',
 			targets : '.luxy-el',
-			wrapperSpeed: 0.05,
-			targetSpeed: 0.01,
-			targetPercentage: 0.08
+			wrapperSpeed: 0.08,
+			targetSpeed: 0.02,
+			targetPercentage: 0.1
 		};
 
  		var requestAnimationFrame = 
