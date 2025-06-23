@@ -37,8 +37,8 @@
 		var defaults = {
 			wrapper: '#luxy',
 			targets : '.luxy-el',
-			wrapperSpeed: 0.06,
-			targetSpeed: 0.01,
+			wrapperSpeed: 0.1,
+			targetSpeed: 0.03,
 			targetPercentage: 0.1
 		};
 
